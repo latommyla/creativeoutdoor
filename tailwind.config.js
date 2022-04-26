@@ -6,6 +6,9 @@ module.exports = {
     extend: {},
     backgroundImage: {
       'wagon': "url('src/components/imgs/sportwagon.png')",
+    },
+    fontFamily: {
+      'roboto': ['"Roboto"', 'sans-serif']
     }
   },
   plugins: [],
