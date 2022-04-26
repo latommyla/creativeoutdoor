@@ -4,6 +4,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    backgroundImage: {
+      'wagon': "url('src/components/imgs/sportwagon.png')",
+    }
   },
   plugins: [],
 }
