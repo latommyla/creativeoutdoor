@@ -9,7 +9,7 @@ import image5 from './imgs/4701.png'
 export default function Home() {
     return (
         <div id="home" class="flex m-auto md:m-auto pt-44">
-            <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto">
+            <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
                 <div class="text-center">
                     <h1 class="font-roboto text-5xl text-amber-400 pb-6"> Arcade Game List </h1>
                 </div>
