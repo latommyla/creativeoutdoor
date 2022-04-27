@@ -8,26 +8,26 @@ import image5 from './imgs/2558.png'
 
 export default function Pinballgame() {
     return (
-        <div id="home" class="flex m-auto md:m-auto pt-20">
+        <div id="home" class="flex m-auto md:m-auto pt-6 md:pt-20">
             <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
                 <div class="text-center">
-                    <h1 class="font-roboto text-5xl text-amber-400 pb-6"> Pinball Game List </h1>
+                    <h1 class="font-roboto text-2xl md:text-5xl text-amber-400 md:pb-6"> Pinball Game List </h1>
                 </div>
-                <div class="w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-2 md:grid-cols-4 m-auto">
+                <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-4 md:grid-cols-4 m-auto">
                     <div>
-                        <img src={ image1 } class="w-56 h-56 rounded-lg" alt="60games" />
+                        <img src={ image1 } class="w-20 h-20 md:w-56 md:h-56 rounded-lg" alt="60games" />
                     </div> 
                     <div>
-                        <img src={ image2 } class="w-56 h-56 rounded-lg" alt="412games" />
+                        <img src={ image2 } class="w-20 h-20 md:w-56 md:h-56 rounded-lg" alt="412games" />
                     </div>
                     <div>
-                        <img src={ image3 } class="w-56 h-56 rounded-lg" alt="750games" />
+                        <img src={ image3 } class="w-20 h-20 md:w-56 md:h-56 rounded-lg" alt="750games" />
                     </div>
                     <div>
-                        <img src={ image4 } class="w-56 h-56 rounded-lg" alt="1162games" />
+                        <img src={ image4 } class="w-20 h-20 md:w-56 md:h-56 rounded-lg" alt="1162games" />
                     </div>
                     <div>
-                        <img src={ image5 } class="w-56 h-56 rounded-lg" alt="2448games" />
+                        <img src={ image5 } class="w-20 h-20 md:w-56 md:h-56 rounded-lg" alt="2448games" />
                     </div>
                 </div>
             </div>
