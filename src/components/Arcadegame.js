@@ -12,7 +12,7 @@ import image10 from './imgs/6296.png'
 import image11 from './imgs/9043.png'
 
 
-export default function Home() {
+export default function Arcadegame() {
     return (
         <div id="home" class="flex m-auto md:m-auto pt-44">
             <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
@@ -52,27 +52,6 @@ export default function Home() {
                     </div>
                     <div>
                         <img src={ image11 } class="w-56 h-56 rounded-lg" alt="9043games" />
-                    </div>
-                </div>
-
-                <div class="text-center">
-                    <h1 class="font-roboto text-5xl text-amber-400 pb-6 pt-20"> Pinball Game List </h1>
-                </div>
-                <div class="w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-2 md:grid-cols-4 m-auto">
-                    <div>
-                        <img src={ image1 } class="w-56 h-56 rounded-lg" alt="60games" />
-                    </div> 
-                    <div>
-                        <img src={ image2 } class="w-56 h-56 rounded-lg" alt="412games" />
-                    </div>
-                    <div>
-                        <img src={ image6 } class="w-56 h-56 rounded-lg" alt="750games" />
-                    </div>
-                    <div>
-                        <img src={ image3 } class="w-56 h-56 rounded-lg" alt="1162games" />
-                    </div>
-                    <div>
-                        <img src={ image7 } class="w-56 h-56 rounded-lg" alt="2448games" />
                     </div>
                 </div>
             </div>

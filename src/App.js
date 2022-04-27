@@ -1,11 +1,13 @@
 import Navbar from './components/Navbar';
-import Home from './components/Home';
+import Arcadegame from './components/Arcadegame';
+import Pinballgame from './components/Pinballgame';
 
 export default function App() {
   return (
     <main>
       <Navbar />
-      <Home />
+      <Arcadegame />
+      <Pinballgame />
     </main>
   );
 }
