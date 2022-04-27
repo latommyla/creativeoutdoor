@@ -1,4 +1,6 @@
 import React from 'react'
+import { Document, Page } from 'react-pdf';
+
 import image1 from './imgs/60.jpg'
 import image2 from './imgs/412.jpg'
 import image3 from './imgs/1162.jpg'

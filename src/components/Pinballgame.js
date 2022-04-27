@@ -11,7 +11,7 @@ export default function Pinballgame() {
         <div id="home" class="flex m-auto md:m-auto pt-20">
             <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
                 <div class="text-center">
-                    <h1 class="font-roboto text-5xl text-amber-400 pb-6"> Arcade Game List </h1>
+                    <h1 class="font-roboto text-5xl text-amber-400 pb-6"> Pinball Game List </h1>
                 </div>
                 <div class="w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-2 md:grid-cols-4 m-auto">
                     <div>
