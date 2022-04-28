@@ -1,6 +1,8 @@
 import React from 'react'
 import Logo from './imgs/creativearcadeslogo.png'
 
+import { Link } from "react-router-dom";
+
 export default function Navbar() {
     return (
         <nav class="px-2 sm:px-4 py-2.5 shadow m-auto">
@@ -14,10 +16,10 @@ export default function Navbar() {
                 <div class=" justify-between items-center w-full md:flex md:w-auto md:order-1" id="mobile-menu-4">
                     <ul class="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
                         <li>
-                            <a to="#" class="block py-2 pr-4 pl-3 md:p-0 md:hover:text-amber-500"> Game List</a>
+                            <Link to="/" class="block py-2 pr-4 pl-3 md:p-0 md:hover:text-amber-500"> Game List</Link>
                         </li>
                         <li>
-                            <a to="./" class="block py-2 pr-4 pl-3 md:border-0 md:p-0 md:hover:text-amber-500"> Manuals </a>
+                            <Link to="manuals" class="block py-2 pr-4 pl-3 md:border-0 md:p-0 md:hover:text-amber-500"> Manuals </Link>
                         </li>
                     </ul>
                 </div>

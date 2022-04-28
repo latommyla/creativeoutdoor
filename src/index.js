@@ -1,17 +1,20 @@
 import React from 'react';
-
-import { render } from "react-dom";
-
 import ReactDOM from 'react-dom/client';
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+} from "react-router-dom";
 import './index.css';
-import App from './App';
-import Manual from './Manual';
-
+import Gamelist from './routes/Gamelist'
+import Manual from './routes/Manual'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Gamelist />} />
+      <Route path="manuals" element={<Manual />} />
+    </Routes>
+  </BrowserRouter>
 );
-
