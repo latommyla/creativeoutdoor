@@ -8,7 +8,8 @@ module.exports = {
       'wagon': "url('src/components/imgs/sportwagon.png')",
     },
     fontFamily: {
-      'roboto': ['"Roboto"', 'sans-serif']
+      'roboto': ['"Roboto"', 'sans-serif'],
+      'bebas': ['"Bebas Neue"', 'cursive'],
     }
   },
   plugins: [],
