@@ -14,15 +14,14 @@ export default function Navbar() {
                 <div class=" justify-between items-center w-full md:flex md:w-auto md:order-1" id="mobile-menu-4">
                     <ul class="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
                         <li>
-                            <a href="#" class="block py-2 pr-4 pl-3 md:p-0 md:hover:text-amber-500"> Game List</a>
+                            <a to="#" class="block py-2 pr-4 pl-3 md:p-0 md:hover:text-amber-500"> Game List</a>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pr-4 pl-3 md:border-0 md:p-0 md:hover:text-amber-500"> Manuals </a>
+                            <a to="./" class="block py-2 pr-4 pl-3 md:border-0 md:p-0 md:hover:text-amber-500"> Manuals </a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
-
     );
 }

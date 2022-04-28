@@ -1,3 +1,5 @@
+import React from 'react';
+
 import Navbar from './components/Navbar';
 import Arcadegame from './components/Arcadegame';
 import Pinballgame from './components/Pinballgame';
