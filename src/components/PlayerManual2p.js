@@ -6,6 +6,7 @@ import image3 from './imgs/1162manual.png'
 import image4 from './imgs/3000manual.png'
 import image5 from './imgs/4500manual.png'
 import image6 from './imgs/4701manual.png'
+import image7 from './imgs/6296manual.png'
 
 import pdf1 from './pdfs/manuals/manual2p60.pdf'
 import pdf2 from './pdfs/manuals/manual2p412.pdf'
@@ -52,6 +53,11 @@ export default function PlayerManual2p() {
                     <div class="m-auto">
                         <a href={pdf6} target="_blank" rel="noopener noreferrer">
                             <img src={image6} class="w-44 h-22 md:w-80 md:h-44 rounded-lg md:hover:opacity-80" alt="4701 Game Manual" />
+                        </a>
+                    </div>
+                    <div class="m-auto">
+                        <a href={pdf6} target="_blank" rel="noopener noreferrer">
+                            <img src={image7} class="w-44 h-22 md:w-80 md:h-44 rounded-lg md:hover:opacity-80" alt="6296 Game Manual" />
                         </a>
                     </div>
                 </div>
