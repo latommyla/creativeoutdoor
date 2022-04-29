@@ -18,32 +18,32 @@ export default function PlayerManual2p() {
                 <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-2 grid-cols-2 md:grid-cols-3 m-auto">
                     <div class="m-auto">
                         <a target="_blank" rel="noopener noreferrer">
-                            <img src={image1} class="w-44 h-22 md:w-80 md:h-44 rounded-lg hover:opacity-80" alt="60 Game Manual" />
+                            <img src={image1} class="w-44 h-22 md:w-80 md:h-44 rounded-lg md:hover:opacity-80" alt="60 Game Manual" />
                         </a>
                     </div>
                     <div class="m-auto">
                         <a target="_blank" rel="noopener noreferrer">
-                            <img src={image2} class="w-44 h-22 md:w-80 md:h-44 rounded-lg hover:opacity-80" alt="412 Game Manual" />
+                            <img src={image2} class="w-44 h-22 md:w-80 md:h-44 rounded-lg md:hover:opacity-80" alt="412 Game Manual" />
                         </a>
                     </div>
                     <div class="m-auto">
                         <a target="_blank" rel="noopener noreferrer">
-                            <img src={image3} class="w-44 h-22 md:w-80 md:h-44 rounded-lg hover:opacity-80" alt="1162 Game Manual" />
+                            <img src={image3} class="w-44 h-22 md:w-80 md:h-44 rounded-lg md:hover:opacity-80" alt="1162 Game Manual" />
                         </a>
                     </div>
                     <div class="m-auto">
                         <a target="_blank" rel="noopener noreferrer">
-                            <img src={image4} class="w-44 h-22 md:w-80 md:h-44 rounded-lg hover:opacity-80" alt="3000 Game Manual" />
+                            <img src={image4} class="w-44 h-22 md:w-80 md:h-44 rounded-lg md:hover:opacity-80" alt="3000 Game Manual" />
                         </a>
                     </div>
                     <div class="m-auto">
                         <a target="_blank" rel="noopener noreferrer">
-                            <img src={image5} class="w-44 h-22 md:w-80 md:h-44 rounded-lg hover:opacity-80" alt="4500 Game Manual" />
+                            <img src={image5} class="w-44 h-22 md:w-80 md:h-44 rounded-lg md:hover:opacity-80" alt="4500 Game Manual" />
                         </a>
                     </div>
                     <div class="m-auto">
                         <a target="_blank" rel="noopener noreferrer">
-                            <img src={image6} class="w-44 h-22 md:w-80 md:h-44 rounded-lg hover:opacity-80" alt="4701 Game Manual" />
+                            <img src={image6} class="w-44 h-22 md:w-80 md:h-44 rounded-lg md:hover:opacity-80" alt="4701 Game Manual" />
                         </a>
                     </div>
                 </div>

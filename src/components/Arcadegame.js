@@ -35,57 +35,57 @@ export default function Arcadegame() {
                 <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-4 md:grid-cols-4 m-auto">
                     <div>
                         <a href={pdf60} target="_blank" rel="noopener noreferrer">
-                            <img src={image1} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="60games" />
+                            <img src={image1} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="60games" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf412} target="_blank" rel="noopener noreferrer">
-                            <img src={image2} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="412games" />
+                            <img src={image2} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="412games" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf750} target="_blank" rel="noopener noreferrer">
-                            <img src={image6} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="750games" />
+                            <img src={image6} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="750games" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf1162} target="_blank" rel="noopener noreferrer">
-                            <img src={image3} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="1162games" />
+                            <img src={image3} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="1162games" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf2448} target="_blank" rel="noopener noreferrer ">
-                            <img src={image7} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="2448games" />
+                            <img src={image7} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="2448games" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf3000} target="_blank" rel="noopener noreferrer ">
-                            <img src={image4} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="3000games" />
+                            <img src={image4} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="3000games" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf3502} target="_blank" rel="noopener noreferrer ">
-                            <img src={image8} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="3502games" />
+                            <img src={image8} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="3502games" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf4539} target="_blank" rel="noopener noreferrer ">
-                            <img src={image9} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="4539games" />
+                            <img src={image9} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="4539games" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf4701} target="_blank" rel="noopener noreferrer ">
-                            <img src={image5} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="4701games" />
+                            <img src={image5} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="4701games" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf6296} target="_blank" rel="noopener noreferrer ">
-                            <img src={image10} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="6296games" />
+                            <img src={image10} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="6296games" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf9043} target="_blank" rel="noopener noreferrer ">
-                            <img src={image11} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="9043games" />
+                            <img src={image11} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="9043games" />
                         </a>
                     </div>
                 </div>

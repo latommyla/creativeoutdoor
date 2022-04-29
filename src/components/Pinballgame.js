@@ -23,27 +23,27 @@ export default function Pinballgame() {
                 <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-4 md:grid-cols-4 m-auto">
                     <div>
                         <a href={pb327} target="_blank" rel="noopener noreferrer">
-                            <img src={image1} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="327games" />
+                            <img src={image1} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="327games" />
                         </a>
                     </div>
                     <div>
                         <a href={pb1080} target="_blank" rel="noopener noreferrer">
-                            <img src={image2} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="1080games" />
+                            <img src={image2} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="1080games" />
                         </a>
                     </div>
                     <div>
                         <a href={pb1306} target="_blank" rel="noopener noreferrer">
-                            <img src={image3} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="1306games" />
+                            <img src={image3} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="1306games" />
                         </a>
                     </div>
                     <div>
                         <a href={pb2030} target="_blank" rel="noopener noreferrer">
-                            <img src={image4} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="2030games" />
+                            <img src={image4} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="2030games" />
                         </a>
                     </div>
                     <div>
                         <a href={pb2558} target="_blank" rel="noopener noreferrer">
-                            <img src={image5} class="w-20 h-20 md:w-56 md:h-56 rounded-lg hover:opacity-80" alt="2558games" />
+                            <img src={image5} class="w-20 h-20 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="2558games" />
                         </a>
                     </div>
                 </div>
