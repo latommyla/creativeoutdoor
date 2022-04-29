@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 export default function Navbar() {
     return (
         <nav class="px-2 sm:px-4 py-2.5 shadow m-auto">
-            <div class="flex flex-wrap justify-between items-center mx-auto md:max-w-screen-xl">
+            <div class="flex flex-wrap justify-between items-center mx-auto md:max-w-screen-lg">
                 <Link to="/" class="flex items-center">
                     <img src={Logo} class="h-18 w-36" alt="Creative Arcades Logo" />
                 </Link>

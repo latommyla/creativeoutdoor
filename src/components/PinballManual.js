@@ -8,13 +8,14 @@ import pdf1 from './pdfs/manuals/pb322manual.pdf'
 import pdf2 from './pdfs/manuals/pb1306manual.pdf'
 import pdf3 from './pdfs/manuals/pinballarcadelayout.pdf'
 
+import heading from './imgs/headings/pinballmanuals.png'
 
 export default function PinballManual() {
     return (
         <div class="flex m-auto md:m-auto pt-4 md:pt-14">
             <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
                 <div class="text-center">
-                    <h1 class="font-raleway text-2xl md:text-5xl text-amber-400 md:pb-6"> PINBALL MANUALS </h1>
+                    <img src={heading} class="h-10 md:h-20 m-auto" alt="Pinball Manuals" />
                 </div>
                 <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-2 md:grid-cols-3 m-auto">
                     <div class="m-auto">
