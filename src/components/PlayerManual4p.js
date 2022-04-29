@@ -11,7 +11,7 @@ import pdf3 from './pdfs/manuals/tr2usermanual.pdf'
 
 export default function PlayerManual4p() {
     return (
-        <div class="flex m-auto md:m-auto pt-8 md:pt-14">
+        <div class="flex m-auto md:m-auto pt-4 md:pt-14">
             <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
                 <div class="text-center">
                     <h1 class="font-raleway text-2xl md:text-5xl text-amber-400 md:pb-6"><span class="font-roboto"> 4 </span> PLAYER MANUALS </h1>

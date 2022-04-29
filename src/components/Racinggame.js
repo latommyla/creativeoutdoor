@@ -9,7 +9,7 @@ import pdf177 from './pdfs/177racing.pdf'
 
 export default function Pinballgame() {
     return (
-        <div class="flex m-auto md:m-auto pt-6 md:pt-20">
+        <div class="flex m-auto md:m-auto pt-4 md:pt-20">
             <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
                 <div class="text-center">
                     <h1 class="font-raleway text-2xl md:text-5xl text-amber-400 md:pb-6"> RACING GAME LIST </h1>
