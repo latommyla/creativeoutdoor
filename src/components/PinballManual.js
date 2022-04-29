@@ -1,20 +1,20 @@
 import React from 'react'
 
-import image1 from './imgs/4p4500manual.png'
-import image2 from './imgs/tr2manual.png'
-import image3 from './imgs/slimbuttonlayout.png'
+import image1 from './imgs/manual322pb.png'
+import image2 from './imgs/manual1306pb.png'
+import image3 from './imgs/pinballarcade.png'
 
-import pdf1 from './pdfs/manuals/manual4p4500.pdf'
-import pdf2 from './pdfs/manuals/slimbuttonlayout.jpg'
-import pdf3 from './pdfs/manuals/tr2usermanual.pdf'
+import pdf1 from './pdfs/manuals/pb322manual.pdf'
+import pdf2 from './pdfs/manuals/pb1306manual.pdf'
+import pdf3 from './pdfs/manuals/pinballarcadelayout.pdf'
 
 
-export default function PlayerManual4p() {
+export default function PinballManual() {
     return (
         <div class="flex m-auto md:m-auto pt-8 md:pt-14">
             <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
                 <div class="text-center">
-                    <h1 class="font-raleway text-2xl md:text-5xl text-amber-400 md:pb-6"><span class="font-roboto"> 4 </span> PLAYER MANUALS </h1>
+                    <h1 class="font-raleway text-2xl md:text-5xl text-amber-400 md:pb-6"> PINBALL MANUALS </h1>
                 </div>
                 <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-2 md:grid-cols-3 m-auto">
                     <div class="m-auto">
