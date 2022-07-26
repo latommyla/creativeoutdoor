@@ -26,9 +26,6 @@ export default function Navbar() {
                         <li>
                             <Link to="manuals" class="block py-2 pr-4 pl-3 md:border-0 md:p-0 md:hover:text-amber-500"> Manuals </Link>
                         </li>
-                        <li>
-                            <Link to="howto" class="block py-2 pr-4 pl-3 md:border-0 md:p-0 md:hover:text-amber-500"> How-to </Link>
-                        </li>
                     </ul>
                 </div>
             </div>
