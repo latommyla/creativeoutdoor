@@ -27,32 +27,32 @@ export default function Pinballgame() {
                 <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-2 sm:grid-cols-4 md:grid-cols-4 m-auto place-items-center">
                     <div>
                         <a href={pb327} target="_blank" rel="noopener noreferrer">
-                            <img src={image1} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="327games" title="327 Pinball Games List" />
+                            <img src={image1} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="327games" title="327 Pinball Games List" />
                         </a>
                     </div>
                     <div>
                         <a href={pb1080} target="_blank" rel="noopener noreferrer">
-                            <img src={image2} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="1080games" title="1080 Pinball Games List" />
+                            <img src={image2} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="1080games" title="1080 Pinball Games List" />
                         </a>
                     </div>
                     <div>
                         <a href={pb1306} target="_blank" rel="noopener noreferrer">
-                            <img src={image3} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="1306games" title="1306 Pinball Games List" />
+                            <img src={image3} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="1306games" title="1306 Pinball Games List" />
                         </a>
                     </div>
                     <div>
                         <a href={pb2030} target="_blank" rel="noopener noreferrer">
-                            <img src={image4} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="2030games" title="2030 Pinball Games List" />
+                            <img src={image4} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="2030games" title="2030 Pinball Games List" />
                         </a>
                     </div>
                     <div>
                         <a href={pb2558} target="_blank" rel="noopener noreferrer">
-                            <img src={image5} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="2558games" title="2558 Pinball Games List" />
+                            <img src={image5} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="2558games" title="2558 Pinball Games List" />
                         </a>
                     </div>
                     <div>
                         <a href={pb7043} target="_blank" rel="noopener noreferrer">
-                            <img src={image6} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80" alt="7043games" title="7043 Pinball Games List" />
+                            <img src={image6} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="7043games" title="7043 Pinball Games List" />
                         </a>
                     </div>
                 </div>
