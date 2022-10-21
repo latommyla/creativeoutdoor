@@ -6,7 +6,7 @@ module.exports = {
     extend: {},
     backgroundImage: {
       'retro': "url('/src/components/backgroundimg/retro-wave.png')",
-      'mobile': "url('/Users/ecom/creativeoutdoor/src/components/backgroundimg/mobile-bg.png')",
+      'mobile': "url('/src/components/backgroundimg/mobile-bg.png')",
     },
     fontFamily: {
       'silkscreen': ['"Silkscreen"', 'cursive'],
