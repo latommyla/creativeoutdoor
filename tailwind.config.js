@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {},
     backgroundImage: {
-      'retro': "url('/Users/ecom/creativeoutdoor/src/components/backgroundimg/retro-wave.png')",
+      'retro': "url('/src/components/backgroundimg/retro-wave.png')",
     },
     fontFamily: {
       'roboto': ['"Roboto"', 'sans-serif'],
