@@ -8,9 +8,7 @@ module.exports = {
       'retro': "url('/src/components/backgroundimg/retro-wave.png')",
     },
     fontFamily: {
-      'roboto': ['"Roboto"', 'sans-serif'],
-      'bebas': ['"Bebas Neue"', 'cursive'],
-      'raleway': ['"Raleway"', 'sans-serif'],
+      'silkscreen': ['"Silkscreen"', 'cursive'],
     }
   },
   plugins: [],

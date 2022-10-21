@@ -24,14 +24,12 @@ import pdf4701 from './pdfs/4701.pdf'
 import pdf6296 from './pdfs/6296.pdf'
 import pdf9043 from './pdfs/9043.pdf'
 
-import heading from './imgs/headings/arcadegamelist.png'
-
 export default function Arcadegame() {
     return (
         <div class="flex m-auto md:m-auto pt-4 md:pt-10">
             <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
-                <div class="text-center">
-                    <img src={heading} class="h-12 md:h-20 m-auto" alt="Arcade Game List"/>
+                <div class="text-center mt-4">
+                    <p class="font-silkscreen text-4xl md:text-7xl md:mb-10 text-white drop-shadow-2xl"> Arcade Game List </p>
                 </div>
                 <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-2 sm:grid-cols-4 md:grid-cols-4 m-auto place-items-center">
                     <div>

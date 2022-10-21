@@ -14,15 +14,12 @@ import pb2030 from './pdfs/2030pb.pdf'
 import pb2558 from './pdfs/2558pb.pdf'
 import pb7043 from './pdfs/7043pb.pdf'
 
-import heading from './imgs/headings/pinballgamelist.png'
-
-
 export default function Pinballgame() {
     return (
-        <div class="flex m-auto md:m-auto pt-4 md:pt-10">
+        <div class="flex m-auto md:m-auto pt-4 md:pt-24">
             <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
-                <div class="text-center">
-                    <img src={heading} class="h-12 md:h-20 m-auto" alt="Pinball Game List" />
+                <div class="text-center mt-4">
+                    <h1 class="font-silkscreen text-4xl md:text-7xl md:mb-10 text-white"> Pinball Game List </h1>
                 </div>
                 <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-2 sm:grid-cols-4 md:grid-cols-4 m-auto place-items-center">
                     <div>
