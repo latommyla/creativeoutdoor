@@ -31,7 +31,7 @@ export default function Arcadegame() {
         <div class="flex m-auto md:m-auto pt-4 md:pt-10">
             <div class="w-screen md:w-screen md:max-w-screen-2xl m-auto md:m-auto select-none">
                 <div class="text-center">
-                    <img src={heading} class="h-10 md:h-20 m-auto" alt="Arcade Game List"/>
+                    <img src={heading} class="h-12 md:h-20 m-auto" alt="Arcade Game List"/>
                 </div>
                 <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-2 sm:grid-cols-4 md:grid-cols-4 m-auto place-items-center">
                     <div>
