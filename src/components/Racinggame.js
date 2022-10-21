@@ -16,12 +16,12 @@ export default function Pinballgame() {
                 <div class="p-4 md:p-0 w-screen md:max-w-screen-lg flex grid gap-4 grid-cols-2 sm:grid-cols-4 md:grid-cols-4 m-auto place-items-center">
                     <div>
                         <a href={pdf107} target="_blank" rel="noopener noreferrer">
-                            <img src={image1} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="107games" title="107 Racing Games List" />
+                            <img src={image1} class="w-44 h-44 md:w-56 md:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="107games" title="107 Racing Games List" />
                         </a>
                     </div>
                     <div>
                         <a href={pdf177} target="_blank" rel="noopener noreferrer">
-                            <img src={image2} class="w-36 h-36 md:w-56 md:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="177games" title="177 Racing Games List" />
+                            <img src={image2} class="w-44 h-44 md:w-56 md:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="177games" title="177 Racing Games List" />
                         </a>
                     </div>
                 </div>
