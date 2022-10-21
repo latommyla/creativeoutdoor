@@ -6,7 +6,7 @@ import Racinggame from '../components/Racinggame';
 
 export default function Gamelist() {
   return (
-    <main class="bg-retro bg-cover bg-fixed bg-center">
+    <main class="bg-mobile sm:bg-retro bg-cover bg-fixed bg-center">
       <Arcadegame />
       <Pinballgame />
       <Racinggame />
