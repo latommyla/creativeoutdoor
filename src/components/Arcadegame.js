@@ -11,6 +11,7 @@ import image8 from './imgs/3500.jpg'
 import image9 from './imgs/4500.jpg'
 import image10 from './imgs/6296.png'
 import image11 from './imgs/9043.png'
+import image12 from './imgs/5100.png'
 
 import pdf60 from './pdfs/60.pdf'
 import pdf412 from './pdfs/412.pdf'
@@ -21,6 +22,7 @@ import pdf3000 from './pdfs/3000.pdf'
 import pdf3502 from './pdfs/3516.pdf'
 import pdf4539 from './pdfs/4539.pdf'
 import pdf4701 from './pdfs/4701.pdf'
+import pdf5100 from './pdfs/5100.pdf'
 import pdf6296 from './pdfs/6296.pdf'
 import pdf9043 from './pdfs/9043.pdf'
 
@@ -75,6 +77,11 @@ export default function Arcadegame() {
                     <div>
                         <a href={pdf4701} target="_blank" rel="noopener noreferrer ">
                             <img src={image5} class="w-44 h-44 md:w-48 md:h-48 lg:w-56 lg:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="4701games" title="4701 Games List" />
+                        </a>
+                    </div>
+                    <div>
+                        <a href={pdf5100} target="_blank" rel="noopener noreferrer ">
+                            <img src={image12} class="w-44 h-44 md:w-48 md:h-48 lg:w-56 lg:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="6296games" title="6296 Games List" />
                         </a>
                     </div>
                     <div>
