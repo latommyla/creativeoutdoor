@@ -12,9 +12,11 @@ import image9 from './imgs/4500.jpg'
 import image10 from './imgs/6296.png'
 import image11 from './imgs/9043.png'
 import image12 from './imgs/5100.png'
+import image13 from './imgs/516.png'
 
 import pdf60 from './pdfs/60.pdf'
 import pdf412 from './pdfs/412.pdf'
+import pdf516 from './pdfs/516.pdf'
 import pdf750 from './pdfs/750.pdf'
 import pdf1162 from './pdfs/1162.pdf'
 import pdf2448 from './pdfs/2448.pdf'
@@ -42,6 +44,11 @@ export default function Arcadegame() {
                     <div>
                         <a href={pdf412} target="_blank" rel="noopener noreferrer">
                             <img src={image2} class="w-44 h-44 md:w-48 md:h-48 lg:w-56 lg:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="412games" title="412 Games List" />
+                        </a>
+                    </div>
+                    <div>
+                        <a href={pdf516} target="_blank" rel="noopener noreferrer">
+                            <img src={image13} class="w-44 h-44 md:w-48 md:h-48 lg:w-56 lg:h-56 rounded-lg md:hover:opacity-80 transition ease-in-out hover:-translate-y-1" alt="412games" title="412 Games List" />
                         </a>
                     </div>
                     <div>
