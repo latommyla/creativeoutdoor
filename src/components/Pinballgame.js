@@ -12,7 +12,7 @@ import pb1080 from "./pdfs/1080pb.pdf";
 import pb1306 from "./pdfs/1306pb.pdf";
 import pb2030 from "./pdfs/2030pb.pdf";
 import pb2558 from "./pdfs/2558pb.pdf";
-import pb7043 from "./pdfs/7043pb.pdf";
+import pb7043 from "./pdfs/7403pb.pdf";
 
 export default function Pinballgame() {
   return (
